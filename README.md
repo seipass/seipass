@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/seipass/seipass/main/profile-card.svg" alt="Hasilan's Profile Card" width="800">
 </div>
 
----
-
 <p align="center">Just a junior high school student living at Japan.</p>
 
 ---
