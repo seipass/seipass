@@ -4,7 +4,7 @@
 
 ---
 
-<p>Just a junior high school student living at Japan.</p>
+<p align="center">Just a junior high school student living at Japan.</p>
 
 ---
 
