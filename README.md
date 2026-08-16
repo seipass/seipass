@@ -10,7 +10,7 @@
   <a href="https://hasilan.net" target="_blank">
     <img src="https://img.shields.io/badge/Website-hasilan.net-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://x.com/ha4lan" target="_blank">
+  <a href="https://x.com/hasilan_" target="_blank">
     <img src="https://img.shields.io/badge/X-ha4lan-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
